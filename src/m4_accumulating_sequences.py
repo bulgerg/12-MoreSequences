@@ -384,7 +384,6 @@ def run_test_rectangles_from_circles():
 
     window.continue_on_mouse_click(message, close_it=True)
 
-
 def rectangles_from_circles(circles):
     rectangle = []
     for k in range(len(circles)):
